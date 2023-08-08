@@ -1,5 +1,5 @@
 number of countries in the dataset ?
-
+select count(*) from trade;
 
 Which are the top 5 trading partners for India?
 
